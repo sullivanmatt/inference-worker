@@ -4,3 +4,4 @@ serverless endpoint because they won't stop pretending it's not.
 
 I'm tired.
 """
+import runpod
